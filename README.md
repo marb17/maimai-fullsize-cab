@@ -15,3 +15,6 @@ Buliding a full-size maimai DX cabinet because i'm bored and it'll look good for
 - Build Inspo : [maimai-homemade-controller](https://github.com/ir0nq/maimai-homemade-controller)
 - Game Setup : [ADX-Controller-Guide](https://github.com/maimai-dx/ADX-Controller-Guide)
 - Aime Card Reader : [Arduino-Aime-Reader](https://github.com/necoarcdotcom/Arduino-Aime-Reader)
+
+# Guides
+- [Game Setup](https://two-torial.xyz/)
