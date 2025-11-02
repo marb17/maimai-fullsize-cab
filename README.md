@@ -17,4 +17,4 @@ Buliding a full-size maimai DX cabinet because i'm bored and it'll look good for
 - Aime Card Reader : [Arduino-Aime-Reader](https://github.com/necoarcdotcom/Arduino-Aime-Reader)
 
 # Guides
-- [Game Setup](https://two-torial.xyz/)
+- Actual Game Prep : [Game Setup](https://two-torial.xyz/)
